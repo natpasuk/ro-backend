@@ -139,32 +139,32 @@ type PresetModel struct {
 
     ShadowWeapon          int `bson:"shadowWeapon" json:"shadowWeapon,omitempty"`
     ShadowWeaponRefine    int `bson:"shadowWeaponRefine" json:"shadowWeaponRefine"`
-    ShadowWeaponEnchant2  int `bson:"shadowWeaponEnchant1" json:"shadowWeaponEnchant1,omitempty"`
+    ShadowWeaponEnchant1  int `bson:"shadowWeaponEnchant1" json:"shadowWeaponEnchant1,omitempty"`
     ShadowWeaponEnchant2  int `bson:"shadowWeaponEnchant2" json:"shadowWeaponEnchant2,omitempty"`
     ShadowWeaponEnchant3  int `bson:"shadowWeaponEnchant3" json:"shadowWeaponEnchant3,omitempty"`
     ShadowArmor           int `bson:"shadowArmor" json:"shadowArmor,omitempty"`
     ShadowArmorRefine     int `bson:"shadowArmorRefine" json:"shadowArmorRefine"`
-    ShadowArmorEnchant2   int `bson:"shadowArmorEnchant1" json:"shadowArmorEnchant1,omitempty"`
+    ShadowArmorEnchant1   int `bson:"shadowArmorEnchant1" json:"shadowArmorEnchant1,omitempty"`
     ShadowArmorEnchant2   int `bson:"shadowArmorEnchant2" json:"shadowArmorEnchant2,omitempty"`
     ShadowArmorEnchant3   int `bson:"shadowArmorEnchant3" json:"shadowArmorEnchant3,omitempty"`
     ShadowShield          int `bson:"shadowShield" json:"shadowShield,omitempty"`
     ShadowShieldRefine    int `bson:"shadowShieldRefine" json:"shadowShieldRefine"`
-    ShadowShieldEnchant2  int `bson:"shadowShieldEnchant1" json:"shadowShieldEnchant1,omitempty"`
+    ShadowShieldEnchant1  int `bson:"shadowShieldEnchant1" json:"shadowShieldEnchant1,omitempty"`
     ShadowShieldEnchant2  int `bson:"shadowShieldEnchant2" json:"shadowShieldEnchant2,omitempty"`
     ShadowShieldEnchant3  int `bson:"shadowShieldEnchant3" json:"shadowShieldEnchant3,omitempty"`
     ShadowBoot            int `bson:"shadowBoot" json:"shadowBoot,omitempty"`
     ShadowBootRefine      int `bson:"shadowBootRefine" json:"shadowBootRefine"`
-    ShadowBootEnchant2    int `bson:"shadowBootEnchant1" json:"shadowBootEnchant1,omitempty"`
+    ShadowBootEnchant1    int `bson:"shadowBootEnchant1" json:"shadowBootEnchant1,omitempty"`
     ShadowBootEnchant2    int `bson:"shadowBootEnchant2" json:"shadowBootEnchant2,omitempty"`
     ShadowBootEnchant3    int `bson:"shadowBootEnchant3" json:"shadowBootEnchant3,omitempty"`
     ShadowEarring         int `bson:"shadowEarring" json:"shadowEarring,omitempty"`
     ShadowEarringRefine   int `bson:"shadowEarringRefine" json:"shadowEarringRefine"`
-    ShadowEarringEnchant2 int `bson:"shadowEarringEnchant1" json:"shadowEarringEnchant1,omitempty"`
+    ShadowEarringEnchant1 int `bson:"shadowEarringEnchant1" json:"shadowEarringEnchant1,omitempty"`
     ShadowEarringEnchant2 int `bson:"shadowEarringEnchant2" json:"shadowEarringEnchant2,omitempty"`
     ShadowEarringEnchant3 int `bson:"shadowEarringEnchant3" json:"shadowEarringEnchant3,omitempty"`
     ShadowPendant         int `bson:"shadowPendant" json:"shadowPendant,omitempty"`
     ShadowPendantRefine   int `bson:"shadowPendantRefine" json:"shadowPendantRefine"`
-    ShadowPendantEnchant2 int `bson:"shadowPendantEnchant1" json:"shadowPendantEnchant1,omitempty"`
+    ShadowPendantEnchant1 int `bson:"shadowPendantEnchant1" json:"shadowPendantEnchant1,omitempty"`
     ShadowPendantEnchant2 int `bson:"shadowPendantEnchant2" json:"shadowPendantEnchant2,omitempty"`
     ShadowPendantEnchant3 int `bson:"shadowPendantEnchant3" json:"shadowPendantEnchant3,omitempty"`
 
